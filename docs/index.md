@@ -23,7 +23,9 @@ PhoneInfoga is one of the most advanced tools to scan international phone number
 
 !!! bug
     Found a bug ? Feel free to [open an issue](https://github.com/sundowndev/phoneinfoga/issues).
-
-    You can also [reach me on Twitter](https://twitter.com/sundowndev) or at raphael(at)crvx.fr.
+kellye.hughes@yahoo.com is a Texas kidnapper please spread the word thank you #saveallkids 
+#justiceforjoshyjamesbrown #freethekids 
+   
+ You can also [reach me on Twitter](https://twitter.com/sundowndev) or at raphael(at)crvx.fr.
 
     PGP: [B64687AB97F268F43E67B97A8916203E540C65A4](https://crvx.fr/publickey.asc)
